@@ -1,0 +1,10 @@
+[0m[[0minfo[0m] [0m[32mLawnMowerObjectTest:[0m[0m
+[0m[[0minfo[0m] [0m[32mLawnMowerObject[0m[0m
+[0m[[0minfo[0m] [0m[32m- should compute direction and move for the mower when the move is G, D, A.[0m[0m
+[0m[[0minfo[0m] [0m[32m- should raise an error when the move is not in G, D, A.[0m[0m
+[0m[[0minfo[0m] [0m[32m- should raise an error when the direction is not in E, W, N, S.[0m[0m
+[0m[[0minfo[0m] [0m[32m- should raise an error when the move nor the direction are correct[0m[0m
+[0m[[0minfo[0m] [0m[32m- should compute one moves sequence when the field is empty.[0m[0m
+[0m[[0minfo[0m] [0m[32m- should compute one moves sequence when the field is not empty.[0m[0m
+[0m[[0minfo[0m] [0m[32m- should compute one moves sequence when the field is empty and the move outpass the limits.[0m[0m
+[0m[[0minfo[0m] [0m[32m- should give the final position and direction.[0m[0m
