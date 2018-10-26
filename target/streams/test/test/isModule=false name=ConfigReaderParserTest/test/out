@@ -1,9 +1,0 @@
-[0m[[0minfo[0m] [0m[32mConfigReaderParserTest:[0m[0m
-[0m[[0minfo[0m] [0m[32mConfigReaderParser[0m[0m
-[0m[[0minfo[0m] [0m[32m- should read the txt file[0m[0m
-[0m[[0minfo[0m] [0m[32m- should give the upper left coordinates of the field[0m[0m
-[0m[[0minfo[0m] [0m[32m- should give an empty list when the upper left coordinates are empty.[0m[0m
-[0m[[0minfo[0m] [0m[32m- should give the initial coordinates and direction.[0m[0m
-[0m[[0minfo[0m] [0m[32m- should give the initial coordinates and direction as empty when the conf file is empty.[0m[0m
-[0m[[0minfo[0m] [0m[32m- should give the moves list[0m[0m
-[0m[[0minfo[0m] [0m[32m- should give an empty moves list when the conf file is empty.[0m[0m
