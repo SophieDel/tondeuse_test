@@ -1,0 +1,2 @@
+ - Des variables en camelCase et des variables en snake_case
+ - Tu n'as pas créé de package

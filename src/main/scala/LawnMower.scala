@@ -3,7 +3,7 @@
 object LawnMower {
 
   case class CommandLineArgs(
-                              confPath: String = "./src/ressources/config_test.txt"
+                              confPath: String = "./src/ressources/config_test.txt"  // Tout ça sur une ligne c'est bien aussi :)
                             )
 
 
@@ -53,6 +53,7 @@ object LawnMower {
         println(finalField)
 
       case None =>
+        // Un petit message d'erreur ?
 
     }
   }
